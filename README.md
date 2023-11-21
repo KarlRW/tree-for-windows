@@ -6,8 +6,8 @@
 In the land of folders wide and deep,
 A script was born, to help you peep.
 ```
-A recursive directory listing program that produces a depth-indented listing of files.
-View your files and folders with options to filter specific file types. I find it helpful when I want to describe my project structure to openai. 
+
+View your files and folders in a tree format. Has options to filter specific file types. I find it helpful when I want to describe my project structure to openai. 
 
 
 
